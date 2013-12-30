@@ -5,7 +5,7 @@ message bus experiment
 
 ## Dependencies
 
-(nanomsg)[http://nanomsg.org]
+[nanomsg](http://nanomsg.org)
 
 
 ## Structure
